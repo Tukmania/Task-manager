@@ -35,4 +35,8 @@ For questions about this project, please reach out to [juliettengum](https://git
 
 ## Video Walkthrough
 [Watch the video walkthrough](https://github.com/Tukmania/Task-manager/blob/main/mainupdate.webm)
+## Screenshot
+![Screenshot view of the command-line app](https://github.com/Tukmania/Task-manager/blob/main/Capture.PNG)
+
+
   
